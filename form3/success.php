@@ -1,0 +1,1 @@
+<h1 style="color:blue">Successfully signed up</h1>
